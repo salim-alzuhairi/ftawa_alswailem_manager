@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "496411111540",
+    "project_id": "ftawa-84eef",
+    "storage_bucket": "ftawa-84eef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496411111540:android:81abdcebd47e5bbab2e121",
+        "android_client_info": {
+          "package_name": "com.ftawa.alswailem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496411111540-9sat4rmlc5u5scmqmqj0f1k79cbplu6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn4Jkvuz4PsodQaoONKGaAMLzw6ygzTnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496411111540-9sat4rmlc5u5scmqmqj0f1k79cbplu6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496411111540:android:7bc929a13b8b73edb2e121",
+        "android_client_info": {
+          "package_name": "com.ftawa.alswailem.manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496411111540-9sat4rmlc5u5scmqmqj0f1k79cbplu6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn4Jkvuz4PsodQaoONKGaAMLzw6ygzTnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496411111540-9sat4rmlc5u5scmqmqj0f1k79cbplu6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
